@@ -14,17 +14,17 @@ kanban-plugin: board
 
 ## Review
 
-- [ ] DEPLOY-09: End-to-End Test - alles laeuft auf aws (Chris)
-- [ ] DEPLOY-05: Github Secrets anlegen (AWS, SSH, ECR, ) (Chris)
-- [ ] DEPLOY-03: docker-compose.prod.yml erstellen (Chris)
-- [ ] INFRA-02: Terraform - EC2 Instance  (Ubuntu 24.04, t2 small) (Marc)
-- [ ] DEPLOY-04: nginx Reverse Proxy Config (Chris)
-- [ ] INFRA-01: Terraform - VPC & Subnets  (Marc )
-- [ ] DEPLOY-08: EC2 Ersteinrichtung (Docker, nginx installieren) (Chris)
 
 
 ## Done
 
+- [ ] INFRA-01: Terraform - VPC & Subnets  (Marc )
+- [ ] DEPLOY-08: EC2 Ersteinrichtung (Docker, nginx installieren) (Chris)
+- [ ] DEPLOY-04: nginx Reverse Proxy Config (Chris)
+- [ ] INFRA-02: Terraform - EC2 Instance  (Ubuntu 24.04, t2 small) (Marc)
+- [ ] DEPLOY-03: docker-compose.prod.yml erstellen (Chris)
+- [ ] DEPLOY-05: Github Secrets anlegen (AWS, SSH, ECR, ) (Chris)
+- [ ] DEPLOY-09: End-to-End Test - alles laeuft auf aws (Chris)
 - [ ] DEPLOY-06: Github Actions Workflows - Build & Push to ECR (Chris)
 - [ ] INFRA-03: Terraform - Secruty Groups Konfigurien (Marc)
 - [ ] DEPLOY-07: Github Actions WorkFlow - Deploy auf EC2 (Chris)
